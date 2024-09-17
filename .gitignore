@@ -1,6 +1,0 @@
-# ignore all files in node_modules directory
-node_modules
-
-# ignore menu.html and contact.html
-src/menu.html
-src/contact.html
